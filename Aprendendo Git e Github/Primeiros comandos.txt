@@ -1,0 +1,9 @@
+WINDOWS
+- cd (change direction)
+- dir (listar arquivos)
+- mkdir (criar pasta)
+- del (deletar arquivos)
+- rmdir (deletar todo o conteúdo)
+- cd .. (volta na pasta anterior)
+- cls (clean screen)
+- TAB (auto completa)
